@@ -4,6 +4,7 @@ data:
   asset.name: promoter-test-0001
   github.org: crenshaw-dev
   github.url: https://github.com
+  test: hi
 kind: ConfigMap
 metadata:
   labels:
